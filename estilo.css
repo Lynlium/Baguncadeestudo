@@ -1,0 +1,29 @@
+body{
+background-color: burlywood;
+text-align: center;
+}
+header{
+font-size: large;
+font-style: normal;
+text-align: center;
+color:  grey;
+align-items: center;
+}
+section{
+    background-color: cadetblue;
+font-size: medium;
+box-sizing: content-box;
+color: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589);
+}
+footer{
+    font-size: 12;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    
+}
